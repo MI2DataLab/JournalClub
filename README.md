@@ -10,5 +10,5 @@
 
 - MACHINE LEARNING INTERPRETABILITY WITH H2O DRIVERLESS AI https://www.h2o.ai/wp-content/uploads/2017/09/MLI.pdf
 - "Why Should I Trust You?" https://arxiv.org/abs/1602.04938
-
-
+- Book about interpretable machine learning https://github.com/christophM/interpretable-ml-book
+- Statistical Modeling: The two cultures https://github.com/christophM/presentation-two-cultures
