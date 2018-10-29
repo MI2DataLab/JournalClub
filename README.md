@@ -2,9 +2,17 @@
 
 ## Journals
 
-- Journal of Computational and Graphical Statistics http://jcgs.stat.rice.edu/
-- Journal of Statistical Software http://www.jstatsoft.org/
-- R Journal https://journal.r-project.org/
+- [Journal of Computational and Graphical Statistics](http://jcgs.stat.rice.edu/)
+- [Journal of Machine Learning Research](http://www.jmlr.org)
+- [The Journal of Open Source Software](https://joss.theoj.org)
+- [Journal of Statistical Computation and Simulation](https://www.tandfonline.com/toc/gscs20/current)
+- [Journal of Statistical Software] http://www.jstatsoft.org/)
+- [Machine Learning](https://www.springer.com/computer/ai/journal/10994)
+- [R Journal](https://journal.r-project.org/)
+- [Computational statistics and data analysis](https://www.journals.elsevier.com/computational-statistics-and-data-analysis/#description)
+
+
+
 
 ## Articles
 
